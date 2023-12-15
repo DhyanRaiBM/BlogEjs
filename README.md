@@ -17,6 +17,6 @@ BlogEJS is a minimalistic blog application built for learning purposes. It utili
 - **MongoDB**
 - **Vanilla CSS**
 
-**Note:** BlogEJS is developed for learning purposes only.Live demo of SimpleBlog [here](https://simpleblog-demo.herokuapp.com).
+**Note:** BlogEJS is developed for learning purposes only.Live demo of SimpleBlog [here](https://blog-app-a8bv.onrender.com).
 #
 
